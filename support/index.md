@@ -14,7 +14,7 @@ Your prompt data is stored locally on your device.
 
 ## How do variables work?
 
-Add placeholders such as `{{topic}}` to a prompt. When you copy that prompt, the app asks for values and copies the resolved text without changing the saved template.
+Add placeholders such as {% raw %}`{{topic}}`{% endraw %} to a prompt. When you copy that prompt, the app asks for values and copies the resolved text without changing the saved template.
 
 ## How do I contact support?
 
@@ -40,7 +40,7 @@ Prompt Manager は、再利用するAIプロンプトを保存、整理、検索
 
 ## 変数はどのように使いますか？
 
-プロンプト内に `{{topic}}` のようなプレースホルダーを追加します。そのプロンプトをコピーするときに値を入力すると、保存済みテンプレートを変更せずに置換済みのテキストをコピーできます。
+プロンプト内に {% raw %}`{{topic}}`{% endraw %} のようなプレースホルダーを追加します。そのプロンプトをコピーするときに値を入力すると、保存済みテンプレートを変更せずに置換済みのテキストをコピーできます。
 
 ## サポートへの連絡方法
 
