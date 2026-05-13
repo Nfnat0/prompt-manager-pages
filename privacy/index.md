@@ -30,7 +30,7 @@ This policy may be updated when the app changes. The updated policy will be post
 
 ## Contact
 
-For privacy questions, contact: TBD dedicated support email.
+For privacy questions, contact: nfnat0.support@gmail.com.
 
 ---
 
@@ -66,4 +66,4 @@ Prompt Manager は、アプリ内で個人情報を収集しません。
 
 ## 連絡先
 
-プライバシーに関する問い合わせ先: 未定の専用サポートメールアドレス
+プライバシーに関する問い合わせ先: nfnat0.support@gmail.com

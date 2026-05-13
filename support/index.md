@@ -18,7 +18,7 @@ Add placeholders such as {% raw %}`{{topic}}`{% endraw %} to a prompt. When you 
 
 ## How do I contact support?
 
-Contact: TBD dedicated support email.
+Contact: nfnat0.support@gmail.com.
 
 Please include your iOS version, app version, device model, and a short description of the issue.
 
@@ -44,6 +44,6 @@ Prompt Manager は、再利用するAIプロンプトを保存、整理、検索
 
 ## サポートへの連絡方法
 
-連絡先: 未定の専用サポートメールアドレス
+連絡先: nfnat0.support@gmail.com
 
 問い合わせ時は、iOS バージョン、アプリバージョン、端末モデル、問題の概要を含めてください。
